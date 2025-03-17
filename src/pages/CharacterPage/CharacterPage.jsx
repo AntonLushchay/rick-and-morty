@@ -53,7 +53,7 @@ export const CharacterPage = () => {
                         {characters.map((character) => {
                             return (
                                 <div className={s.character} key={character.id}>
-                                    <Link to={`/characters/${character.id}`} className={s.characterLink}>
+                                    <Link to={`/rick-and-morty/characters/${character.id}`} className={s.characterLink}>
                                         {character.name}
                                     </Link>
                                     <img src={character.image} alt={`${character.name} avatar`} />

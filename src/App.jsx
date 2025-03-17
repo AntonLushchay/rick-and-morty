@@ -11,11 +11,11 @@ function App() {
         <div>
             <Header />
             <Routes>
-                <Route path='/' element={<HomePage />} />
-                <Route path='/characters' element={<CharacterPage />} />
-                <Route path='/characters/:id' element={<Character />} />
-                <Route path='/locations' element={<LocationPage />} />
-                <Route path='/episodes' element={<EpisodePage />} />
+                <Route path='/rick-and-morty/' element={<HomePage />} />
+                <Route path='/rick-and-morty/characters' element={<CharacterPage />} />
+                <Route path='/rick-and-morty/characters/:id' element={<Character />} />
+                <Route path='/rick-and-morty/locations' element={<LocationPage />} />
+                <Route path='/rick-and-morty/episodes' element={<EpisodePage />} />
             </Routes>
         </div>
     );
