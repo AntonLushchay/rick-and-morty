@@ -28,7 +28,7 @@ jobs:
             - name: Install dependencies and build
               run: |
                   npm install
-                  npm run preview
+                  npm run build
 
             - name: Deploy to GitHub Pages
               uses: JamesIves/github-pages-deploy-action@v4
