@@ -1,6 +1,6 @@
 {
     "name": "rick-and-morty",
-    "homepage": "https://antonlushchay.github.io/",
+    "homepage": "https://antonlushchay.github.io/rick-and-morty/",
     "private": true,
     "version": "0.0.0",
     "type": "module",
