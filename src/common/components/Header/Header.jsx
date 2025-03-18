@@ -9,19 +9,19 @@ const getClassName = ({ isActive }) => {
 export const Header = () => {
     return (
         <nav className={s.container}>
-            <NavLink to='/rick-and-morty/' end>
+            <NavLink to='/' end>
                 <img src={logo} alt='logotype' className={s.logo} />
             </NavLink>
-            <NavLink to='/rick-and-morty/' className={getClassName} end>
+            <NavLink to='/' className={getClassName} end>
                 Home
             </NavLink>
-            <NavLink to='/rick-and-morty/characters' className={getClassName}>
+            <NavLink to='/characters' className={getClassName}>
                 Characters
             </NavLink>
-            <NavLink to='/rick-and-morty/locations' className={getClassName}>
+            <NavLink to='/locations' className={getClassName}>
                 Locations
             </NavLink>
-            <NavLink to='/rick-and-morty/episodes' className={getClassName}>
+            <NavLink to='/episodes' className={getClassName}>
                 Episodes
             </NavLink>
         </nav>
