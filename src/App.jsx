@@ -4,7 +4,7 @@ import { HomePage } from './pages/HomePage/HomePage';
 import { LocationPage } from './pages/LocationPage/LocationPage';
 import { EpisodePage } from './pages/EpisodePage/EpisodePage';
 import { Header } from './common/components/Header/Header';
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router';
 
 function App() {
     return (
