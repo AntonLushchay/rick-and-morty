@@ -47,7 +47,7 @@ export const Character = () => {
                             </div>
                         </div>
                     </div>
-                    <Link to='/rick-and-morty/characters'>
+                    <Link to='/characters'>
                         <button className={'linkButton'}>Go back</button>
                     </Link>
                 </div>

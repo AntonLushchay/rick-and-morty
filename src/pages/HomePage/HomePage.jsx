@@ -6,13 +6,13 @@ export const HomePage = () => {
         <div className={s.mainWrapper}>
             <h1 className={`pageTitle ${s.title}`}>The Rick and Morty</h1>;
             <nav className={s.linkWrapper}>
-                <NavLink to='/rick-and-morty/characters' className={'linkButton'}>
+                <NavLink to='/characters' className={'linkButton'}>
                     Characters
                 </NavLink>
-                <NavLink to='/rick-and-morty/locations' className={'linkButton'}>
+                <NavLink to='/locations' className={'linkButton'}>
                     Locations
                 </NavLink>
-                <NavLink to='/rick-and-morty/episodes' className={'linkButton'}>
+                <NavLink to='/episodes' className={'linkButton'}>
                     Episodes
                 </NavLink>
             </nav>
