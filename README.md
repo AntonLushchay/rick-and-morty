@@ -2,8 +2,8 @@
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Project Type](https://img.shields.io/badge/Type-Educational-orange)
-![Build Tool](https://img.shields.io/badge/Build-Vite-646CFF)
 ![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue)
+![Build Tool](https://img.shields.io/badge/Build%20tool-Vite-646CFF)
 
 
 Учебное веб-приложение, разработанное в рамках интенсива по React от **IT-Incubator**. Проект представляет собой клиент для [Rick and Morty API](https://rickandmortyapi.com/), позволяющий просматривать информацию о персонажах, локациях и эпизодах мультсериала.
