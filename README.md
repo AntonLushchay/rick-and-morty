@@ -1,10 +1,20 @@
 # Rick and Morty App
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![Project Type](https://img.shields.io/badge/Type-Educational-orange)
-![Deploy](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue)
-![Build Tool](https://img.shields.io/badge/Build%20tool-Vite-646CFF)
+![Status](https://img.shields.io/badge/status-Completed-darkgreen)
+![Type](https://img.shields.io/badge/type-Educational-orange)
+![Deploy](https://img.shields.io/badge/deploy-GitHub%20Pages-blue)
+![Audience](https://img.shields.io/badge/audience-Portfolio-purple)
 
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react)
+![CSSModules](https://img.shields.io/badge/CSS%20Modules-3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-BA8E23?logo=javascript)
+![Vite](https://img.shields.io/badge/Vite-444444?logo=vite)
+![ReactRouter](https://img.shields.io/badge/ReactRouter-444444?logo=reactrouter)
+![Axios](https://img.shields.io/badge/Axios-444444?logo=axios)
+![PNPM](https://img.shields.io/badge/PNPM-444444?logo=pnpm)
+
+![ESLint](https://img.shields.io/badge/ESLint-444444?logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-444444?logo=prettier)
 
 Учебное веб-приложение, разработанное в рамках интенсива по React от **IT-Incubator**. Проект представляет собой клиент для [Rick and Morty API](https://rickandmortyapi.com/), позволяющий просматривать информацию о персонажах, локациях и эпизодах мультсериала.
 
@@ -16,13 +26,13 @@
 
 ## 🛠 Технологический стек
 
--   **React 19** (Библиотека для построения пользовательских интерфейсов)
--   **Vite** (Быстрый инструмент сборки и сервер разработки)
--   **React Router v7** (Маршрутизация в приложении: `react-router`, `react-router-dom`)
--   **Axios** (HTTP-клиент для выполнения запросов к API)
--   **CSS Modules** (Стилизация компонентов с локальной областью видимости)
--   **ESLint** (Линтинг кода)
--   **PNPM** (Менеджер пакетов)
+-   **React 19** - Библиотека для построения пользовательских интерфейсов
+-   **Vite** - Быстрый инструмент сборки и сервер разработки
+-   **React Router** - Маршрутизация в приложении
+-   **Axios** - HTTP-клиент для выполнения запросов к API
+-   **CSS Modules** - Стилизация компонентов с локальной областью видимости
+-   **ESLint | Prettier** - Линтинг | Форматинг
+-   **PNPM** - Менеджер пакетов
 
 ## ✨ Функциональность
 
